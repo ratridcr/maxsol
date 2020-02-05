@@ -792,3 +792,8 @@ body {
   max-height: 60vh ;
   border-radius: 10px;
 }
+
+#judul{
+  width: 310px;
+  word-wrap: break-word;
+}
